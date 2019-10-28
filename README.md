@@ -7,3 +7,4 @@ This is a test of proceedure
 4.  From terminal:  git add -A
 5.  From terminal:  git commit --message "Useful message here"
 6.  From terminal:  git push
+7.  From PlatformIO controls at bottom (blue bar), synchronize all changes.
