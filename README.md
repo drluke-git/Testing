@@ -17,3 +17,5 @@ The following section explains:
 3.  Add a commit message
 4.  Click the Check mark at the top to commit the change
 5.  From PlatformIO controls at bottom (blue bar), synchronize all changes
+
+You should be good!
